@@ -10,3 +10,4 @@ The code is provided within three scripts:
 - script_samplings_individuals.R:
 - script_samplings.R: 
 
+[![DOI](https://zenodo.org/badge/194142746.svg)](https://doi.org/10.5281/zenodo.7983279)
